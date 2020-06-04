@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/evanheller'
+let g:netrw_dirhist_3='/Users'
+let g:netrw_dirhist_2='/Users/evanheller'
+let g:netrw_dirhist_1='/Users/evanheller/Documents/src/kivy_tutorial/paint'
+let g:netrw_dirhist_0='/Users/evanheller/Documents/src/sa_fork/storm-analysis/storm_analysis/visualizer'
+let g:netrw_dirhist_9='/Users/evanheller/Documents/src/kivy_tutorial/analyzer'
+let g:netrw_dirhist_8='/Users/evanheller/Documents/src/kivy_tutorial/paint'
+let g:netrw_dirhist_7='/Users/evanheller/Documents/src/kivy_tutorial/analyzer'
+let g:netrw_dirhist_6='/Users/evanheller/Documents/src/kivy_tutorial/paint'
+let g:netrw_dirhist_5='/Users/evanheller/Documents/src/kivy_tutorial'
